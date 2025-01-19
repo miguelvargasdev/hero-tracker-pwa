@@ -8,6 +8,7 @@ import manifest from './manifest.json';
 
 // https://vitejs.dev/config/
 export default defineConfig({
+  base: '/hero-tracker-pwa/',
   plugins: [
     react(),
     VitePWA({

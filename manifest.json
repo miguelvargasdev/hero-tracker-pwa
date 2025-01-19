@@ -5,7 +5,6 @@
   "theme_color": "#ffffff",
   "id": "/hero-tracker-pwa",
   "start_url": "/hero-tracker-pwa/",
-  "display": "fullscreen",
   "icons": [
     {
       "src": "pwa-192x192.png",
