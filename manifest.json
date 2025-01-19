@@ -1,7 +1,7 @@
 {
-  "name": "React PWA",
-  "short_name": "reactpwa",
-  "description": "Starter kit for modern web applications",
+  "name": "Hero Health Tracker",
+  "short_name": "hero-tracker-pwa",
+  "description": "Health tracker for the game Hero: Tales of the Tomes",
   "theme_color": "#ffffff",
   "icons": [
     {
